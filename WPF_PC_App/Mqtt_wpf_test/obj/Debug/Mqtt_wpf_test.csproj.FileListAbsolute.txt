@@ -1,0 +1,32 @@
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\bin\Debug\Mqtt_wpf_test.exe.config
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\bin\Debug\Mqtt_wpf_test.exe
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\bin\Debug\Mqtt_wpf_test.pdb
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.csprojResolveAssemblyReference.cache
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\MainWindow.g.cs
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\App.g.cs
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test_MarkupCompile.cache
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test_MarkupCompile.lref
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\MainWindow.baml
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.g.resources
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.Properties.Resources.resources
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.csproj.GenerateResource.Cache
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.exe
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.pdb
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\bin\Debug\M2Mqtt.Net.dll
+c:\users\omen\documents\visual studio 2017\Projects\Mqtt_wpf_test\Mqtt_wpf_test\bin\Debug\M2Mqtt.Net.pdb
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\bin\Debug\Mqtt_wpf_test.exe.config
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\bin\Debug\Mqtt_wpf_test.exe
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\bin\Debug\Mqtt_wpf_test.pdb
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\bin\Debug\M2Mqtt.Net.dll
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\bin\Debug\M2Mqtt.Net.pdb
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.csprojResolveAssemblyReference.cache
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\MainWindow.g.cs
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\App.g.cs
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test_MarkupCompile.cache
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test_MarkupCompile.lref
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\MainWindow.baml
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.g.resources
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.Properties.Resources.resources
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.csproj.GenerateResource.Cache
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.exe
+c:\Projects\Sterowanie_Lapka\WPF_PC_App\Mqtt_wpf_test\obj\Debug\Mqtt_wpf_test.pdb

@@ -1,0 +1,1 @@
+C:\Users\Omen\documents\visual studio 2017\Projects\test_app_for_cortana\test_app_for_cortana\test_app_for_cortana.csproj;x86

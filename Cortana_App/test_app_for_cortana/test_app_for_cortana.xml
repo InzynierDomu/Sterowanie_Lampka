@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-us" Name="CustomCommands">
+    <CommandPrefix>please</CommandPrefix>
+    <Example>please turn on Desk light</Example>
+
+    <Command Name="TurnOnDeskLight">
+      <Example> Desk light</Example>
+      <ListenFor>[please] turn on [my] desk light </ListenFor>
+      <ListenFor>[please] turn on [my] desk lamp </ListenFor>
+      <Feedback>Desk light turning on </Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="TurnOffDeskLight">
+      <Example> Desk light</Example>
+      <ListenFor>[please] turn off [my] desk light </ListenFor>
+      <ListenFor>[please] turn off [my] desk lamp </ListenFor>
+      <Feedback>Desk light turning off </Feedback>
+      <Navigate/>
+    </Command>
+    
+  </CommandSet>
+
+</VoiceCommands>

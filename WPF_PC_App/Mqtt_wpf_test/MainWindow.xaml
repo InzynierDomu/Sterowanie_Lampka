@@ -1,0 +1,13 @@
+﻿<Window x:Class="Mqtt_wpf_test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mqtt_wpf_test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="279.592" Width="351.531">
+    <Grid>
+        <Button Width="100" Height="75" Content="Turn Off" Click="Button_Click" Margin="102,149,142,25"/>
+        <Button Width="100" Height="75" Content="Turn On" Click="btnTurnOn_Click" Margin="102,30,142,144"/>
+    </Grid>
+</Window>

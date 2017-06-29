@@ -1,0 +1,16 @@
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\bin\Debug\Room.dll
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\bin\Debug\Room.pdb
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\bin\Debug\Room.Room.apk
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\bin\Debug\Room.Room-Signed.apk
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\Room.csprojResolveAssemblyReference.cache
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\Room.dll
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\Room.pdb
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\android\bin\Room.Room.apk
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\res\layout\main.xml
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\res\values\strings.xml
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\res\drawable\icon.png
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\R.cs.flag
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\uploadflags.txt
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\bin\Debug\Room.dll.mdb
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\obj\Debug\android\assets\Room.dll.mdb
+C:\Users\Omen\documents\visual studio 2017\Projects\Room\Room\bin\Debug\M2Mqtt.dll

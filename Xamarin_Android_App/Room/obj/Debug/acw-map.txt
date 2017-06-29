@@ -1,0 +1,4 @@
+Room.MainActivity, Room;md5e7d400b7c347f8b4b6f34304675d5510.MainActivity
+Room.MainActivity, Room, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e7d400b7c347f8b4b6f34304675d5510.MainActivity
+Room.MainActivity;md5e7d400b7c347f8b4b6f34304675d5510.MainActivity
+room.MainActivity;md5e7d400b7c347f8b4b6f34304675d5510.MainActivity
