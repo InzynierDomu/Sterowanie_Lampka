@@ -1,9 +1,5 @@
 # Sterowanie_Lampka
 Sterowanie lampką za pomocą MQTT
 
-Repozytorium połączone z notką ...
+Repozytorium połączone z notką http://www.inzynierdomu.pl/hej-lampko-wlacz-sie/
 
-Instrukcja i opis:
-
-
-Inżynier Domu http://www.inzynierdomu.pl/
